@@ -17,3 +17,6 @@ Fig.2 Multi-condition embedding in SICGAN
 
 图2 SICGAN中的多条件同步嵌入，用于在耦合工况（如同时变速、变负载、变温度等）下的工况识别与同步
 
+The demo video can be downloaded, and it may take approximately 20 seconds.
+
+演示视频已经可以下载，可能需要花费20秒左右的时间。 
