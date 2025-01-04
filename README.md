@@ -5,18 +5,4 @@ For paper: "Speed-Induced Conditional Generative Adversarial Network for Vibrati
 
 这是一个演示视频，用于展示速度诱导条件对抗生成网络（SICGAN）在时变振动信号端到端生成中的有效性
 
-![SICGAN](https://github.com/user-attachments/assets/a6ded41a-11df-4ecd-a913-39aa41aaa1c0)
-
-Fig.1 SICGAN for end-to-end vibraion signal generation under time-varying working conditions
-
-图1 用于时变工况下振动信号端到端靶向生成的SICGAN
-
-![多条件嵌入](https://github.com/user-attachments/assets/301b2edc-dfaf-494c-8594-9d25e0c8665f)
-
-Fig.2 Multi-condition embedding in SICGAN
-
-图2 SICGAN中的多条件同步嵌入，用于在耦合工况（如同时变速、变负载、变温度等）下的工况识别与同步
-
-The demo video can be downloaded, and it may take approximately 20 seconds.
-
 演示视频已经可以下载，可能需要花费20秒左右的时间。 
